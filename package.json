@@ -1,0 +1,20 @@
+{
+  "name": "random-joke-api",
+  "version": "1.0.0",
+  "description": "Generates Random Joke on each call",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "joke-generator",
+    "random-joke",
+    "joke-api"
+  ],
+  "author": "yash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
